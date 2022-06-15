@@ -1,0 +1,17 @@
+.modal {
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border: 2px solid green;
+    background-color: rgba(0, 128, 0, 0.514);
+    transition: all ease-in-out 0.3s;
+    padding: 20px;
+}
+
+.modal.active {
+    opacity: 1;
+    visibility: visible;
+}

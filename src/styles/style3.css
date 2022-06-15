@@ -1,0 +1,46 @@
+/* .light-bar {
+    display: block;
+    padding: 20px;
+}
+
+.red,
+.yellow,
+.green {
+    max-width: 40px;
+    width: 100%;
+    height: 40px;
+    border-radius: 100%;
+}
+
+.red {
+    background-color: rgb(255, 0, 0);
+    opacity: 0;
+    visibility: hidden;
+}
+
+.yellow {
+    background-color: rgb(255, 230, 0);
+    opacity: 0;
+    visibility: hidden;
+}
+
+.green {
+    background-color: rgb(72, 255, 0);
+    opacity: 0;
+    visibility: hidden;
+}
+
+.red.active {
+    opacity: 1;
+    visibility: visible;
+}
+
+.yellow.active {
+    opacity: 1;
+    visibility: visible;
+}
+
+.green.active {
+    opacity: 1;
+    visibility: visible;
+} */
